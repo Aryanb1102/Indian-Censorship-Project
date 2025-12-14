@@ -1,0 +1,16 @@
+tls_issuer,count
+"countryName=US, organizationName=Google Trust Services, commonName=WE1",19
+"countryName=US, organizationName=Let's Encrypt, commonName=R13",11
+"countryName=US, organizationName=DigiCert Inc, commonName=DigiCert Global G3 TLS ECC SHA384 2020 CA1",7
+NO_CERT,7
+"countryName=US, organizationName=DigiCert Inc, commonName=DigiCert Global G2 TLS RSA SHA256 2020 CA1",6
+"countryName=BE, organizationName=GlobalSign nv-sa, commonName=GlobalSign RSA OV SSL CA 2018",5
+"countryName=US, organizationName=Let's Encrypt, commonName=R12",4
+"countryName=US, organizationName=Amazon, commonName=Amazon RSA 2048 M02",4
+"countryName=GB, organizationName=Sectigo Limited, commonName=Sectigo Public Server Authentication CA DV R36",4
+"countryName=US, organizationName=Let's Encrypt, commonName=E7",4
+"countryName=US, organizationName=Google Trust Services, commonName=WR3",4
+"countryName=US, organizationName=DigiCert Inc, organizationalUnitName=www.digicert.com, commonName=RapidSSL TLS RSA CA G1",3
+"countryName=US, organizationName=Let's Encrypt, commonName=E8",3
+"countryName=US, organizationName=Amazon, commonName=Amazon RSA 2048 M04",2
+"countryName=GB, stateOrProvinceName=Greater Manchester, localityName=Salford, organizationName=Sectigo Limited, commonName=Sectigo RSA Domain Validation Secure Server CA",2

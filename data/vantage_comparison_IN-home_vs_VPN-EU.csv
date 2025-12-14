@@ -1,0 +1,101 @@
+domain,category,subcategory,local_http_outcome,local_status_code,local_blockpage_flag,category_remote,subcategory_remote,remote_http_outcome,remote_status_code,remote_blockpage_flag,vantage_diff_flag
+accessnow.org,Civil Society & NGOs,Digital Rights (Global),success,200.0,False,Civil Society & NGOs,Digital Rights (Global),success,200.0,False,both_success
+adrindia.org,Civil Society & NGOs,Elections/Politics,success,200.0,False,Civil Society & NGOs,Elections/Politics,success,200.0,False,both_success
+aljazeera.com,News & Politics,International Media,success,200.0,False,News & Politics,International Media,success,200.0,False,both_success
+altnews.in,News & Politics,Fact-checking,success,200.0,False,News & Politics,Fact-checking,success,200.0,False,both_success
+amnesty.org,Civil Society & NGOs,Human Rights (Global),success,200.0,False,Civil Society & NGOs,Human Rights (Global),success,200.0,False,both_success
+anandabazar.com,News & Politics,Regional Media,access_denied,403.0,False,News & Politics,Regional Media,access_denied,403.0,False,both_bad
+apnews.com,News & Politics,International Media,success,200.0,False,News & Politics,International Media,success,200.0,False,both_success
+article-14.com,News & Politics,Independent Media,success,200.0,False,News & Politics,Independent Media,success,200.0,False,both_success
+bbc.com,News & Politics,International Media,success,200.0,False,News & Politics,International Media,success,200.0,False,both_success
+caravanmagazine.in,News & Politics,Independent Media,success,200.0,False,News & Politics,Independent Media,success,200.0,False,both_success
+cis-india.org,Civil Society & NGOs,Digital Rights (India),success,200.0,False,Civil Society & NGOs,Digital Rights (India),success,200.0,False,both_success
+citizenlab.ca,Civil Society & NGOs,Research Lab,success,200.0,False,Civil Society & NGOs,Research Lab,success,200.0,False,both_success
+dainikbhaskar.com,News & Politics,Regional Media,success,200.0,False,News & Politics,Regional Media,success,200.0,False,both_success
+data.gov.in,Government & Public Services,Open Data,success,200.0,False,Government & Public Services,Open Data,success,200.0,False,both_success
+deccanherald.com,News & Politics,Mainstream Media,success,200.0,False,News & Politics,Mainstream Media,success,200.0,False,both_success
+delhi.gov.in,Government & Public Services,State Government,success,200.0,False,Government & Public Services,State Government,success,200.0,False,both_success
+digilocker.gov.in,Government & Public Services,e-Governance,success,200.0,False,Government & Public Services,e-Governance,success,200.0,False,both_success
+dinakaran.com,News & Politics,Regional Media,success,200.0,False,News & Politics,Regional Media,success,200.0,False,both_success
+disneyplus.com,Social & Streaming,OTT Streaming,success,200.0,False,Social & Streaming,OTT Streaming,success,200.0,False,both_success
+eci.gov.in,Government & Public Services,Election Commission,access_denied,403.0,False,Government & Public Services,Election Commission,access_denied,403.0,False,both_bad
+economictimes.indiatimes.com,News & Politics,Business Media,success,200.0,False,News & Politics,Business Media,success,200.0,False,both_success
+eenadu.net,News & Politics,Regional Media,success,200.0,False,News & Politics,Regional Media,success,200.0,False,both_success
+epw.in,Civil Society & NGOs,Academic Journal,success,200.0,False,Civil Society & NGOs,Academic Journal,success,200.0,False,both_success
+facebook.com,Social & Streaming,Social Network,client_error,400.0,False,Social & Streaming,Social Network,client_error,400.0,False,both_bad
+firstpost.com,News & Politics,Mainstream Media,success,200.0,False,News & Politics,Mainstream Media,success,200.0,False,both_success
+freedomhouse.org,Civil Society & NGOs,Democracy Index,success,200.0,False,Civil Society & NGOs,Democracy Index,success,200.0,False,both_success
+gst.gov.in,Government & Public Services,Tax,success,200.0,False,Government & Public Services,Tax,success,200.0,False,both_success
+hindustantimes.com,News & Politics,Mainstream Media,success,200.0,False,News & Politics,Mainstream Media,success,200.0,False,both_success
+hotstar.com,Social & Streaming,OTT Streaming,success,200.0,False,Social & Streaming,OTT Streaming,success,200.0,False,both_success
+hrw.org,Civil Society & NGOs,Human Rights (Global),success,200.0,False,Civil Society & NGOs,Human Rights (Global),success,200.0,False,both_success
+huffpost.com,News & Politics,International Media,success,200.0,False,News & Politics,International Media,success,200.0,False,both_success
+humanrightsinitiative.org,Civil Society & NGOs,Civil Liberties,success,200.0,False,Civil Society & NGOs,Civil Liberties,success,200.0,False,both_success
+idfcinstitute.org,Civil Society & NGOs,Policy Think Tank,timeout,,False,Civil Society & NGOs,Policy Think Tank,timeout,,False,both_bad
+incometax.gov.in,Government & Public Services,Tax,connection_error,,False,Government & Public Services,Tax,connection_error,,False,both_bad
+india.gov.in,Government & Public Services,National Portal,success,200.0,False,Government & Public Services,National Portal,success,200.0,False,both_success
+indiancouncilofworldaffairs.gov.in,Government & Public Services,Think Tank (Govt),connection_error,,False,Government & Public Services,Think Tank (Govt),connection_error,,False,both_bad
+indianexpress.com,News & Politics,Mainstream Media,success,200.0,False,News & Politics,Mainstream Media,success,200.0,False,both_success
+indiatoday.in,News & Politics,Mainstream Media,success,200.0,False,News & Politics,Mainstream Media,success,200.0,False,both_success
+instagram.com,Social & Streaming,Social Network,success,200.0,False,Social & Streaming,Social Network,success,200.0,False,both_success
+internetfreedom.in,Civil Society & NGOs,Digital Rights (India),success,200.0,False,Civil Society & NGOs,Digital Rights (India),success,200.0,False,both_success
+jagran.com,News & Politics,Regional Media,success,200.0,False,News & Politics,Regional Media,success,200.0,False,both_success
+jiocinema.com,Social & Streaming,OTT Streaming,success,200.0,False,Social & Streaming,OTT Streaming,success,200.0,False,both_success
+kerala.gov.in,Government & Public Services,State Government,timeout,,False,Government & Public Services,State Government,timeout,,False,both_bad
+kooapp.com,Social & Streaming,Social Network,client_error,404.0,False,Social & Streaming,Social Network,client_error,404.0,False,both_bad
+linkedin.com,Social & Streaming,Professional Network,success,200.0,False,Social & Streaming,Professional Network,success,200.0,False,both_success
+livemint.com,News & Politics,Business Media,success,200.0,False,News & Politics,Business Media,success,200.0,False,both_success
+lokmat.com,News & Politics,Regional Media,success,200.0,False,News & Politics,Regional Media,success,200.0,False,both_success
+maharashtra.gov.in,Government & Public Services,State Government,success,200.0,False,Government & Public Services,State Government,success,200.0,False,both_success
+manoramaonline.com,News & Politics,Regional Media,success,200.0,False,News & Politics,Regional Media,success,200.0,False,both_success
+mathrubhumi.com,News & Politics,Regional Media,success,200.0,False,News & Politics,Regional Media,success,200.0,False,both_success
+mea.gov.in,Government & Public Services,Ministry,success,200.0,False,Government & Public Services,Ministry,success,200.0,False,both_success
+meity.gov.in,Government & Public Services,Ministry,success,200.0,False,Government & Public Services,Ministry,success,200.0,False,both_success
+mha.gov.in,Government & Public Services,Ministry,success,200.0,False,Government & Public Services,Ministry,success,200.0,False,both_success
+moneycontrol.com,News & Politics,Business Media,success,200.0,False,News & Politics,Business Media,success,200.0,False,both_success
+mxplayer.in,Social & Streaming,OTT Streaming,success,200.0,False,Social & Streaming,OTT Streaming,success,200.0,False,both_success
+mygov.in,Government & Public Services,Citizen Engagement,success,200.0,False,Government & Public Services,Citizen Engagement,success,200.0,False,both_success
+ndtv.com,News & Politics,Mainstream Media,access_denied,403.0,False,News & Politics,Mainstream Media,access_denied,403.0,False,both_bad
+netflix.com,Social & Streaming,OTT Streaming,success,200.0,False,Social & Streaming,OTT Streaming,success,200.0,False,both_success
+news18.com,News & Politics,Mainstream Media,success,200.0,False,News & Politics,Mainstream Media,success,200.0,False,both_success
+newslaundry.com,News & Politics,Media Critique,success,200.0,False,News & Politics,Media Critique,success,200.0,False,both_success
+nhrc.nic.in,Government & Public Services,Human Rights Commission,success,200.0,False,Government & Public Services,Human Rights Commission,success,200.0,False,both_success
+nytimes.com,News & Politics,International Media,success,200.0,False,News & Politics,International Media,success,200.0,False,both_success
+orfonline.org,Civil Society & NGOs,Policy Think Tank,success,200.0,False,Civil Society & NGOs,Policy Think Tank,success,200.0,False,both_success
+pib.gov.in,Government & Public Services,Information Bureau,success,200.0,False,Government & Public Services,Information Bureau,success,200.0,False,both_success
+pmindia.gov.in,Government & Public Services,PMO,success,200.0,False,Government & Public Services,PMO,success,200.0,False,both_success
+primevideo.com,Social & Streaming,OTT Streaming,success,200.0,False,Social & Streaming,OTT Streaming,success,200.0,False,both_success
+prsindia.org,Civil Society & NGOs,Policy Research,success,200.0,False,Civil Society & NGOs,Policy Research,success,200.0,False,both_success
+pubgmobile.com,Social & Streaming,Previously Banned,success,200.0,False,Social & Streaming,Previously Banned,success,200.0,False,both_success
+pucl.org,Civil Society & NGOs,Civil Liberties,success,200.0,False,Civil Society & NGOs,Civil Liberties,success,200.0,False,both_success
+reddit.com,Social & Streaming,Social Network,success,200.0,False,Social & Streaming,Social Network,success,200.0,False,both_success
+reuters.com,News & Politics,International Media,success,200.0,False,News & Politics,International Media,success,200.0,False,both_success
+rsf.org,Civil Society & NGOs,Press Freedom,success,200.0,False,Civil Society & NGOs,Press Freedom,success,200.0,False,both_success
+sakshi.com,News & Politics,Regional Media,success,200.0,False,News & Politics,Regional Media,success,200.0,False,both_success
+scroll.in,News & Politics,Independent Media,success,200.0,False,News & Politics,Independent Media,success,200.0,False,both_success
+sflc.in,Civil Society & NGOs,Digital Rights (India),success,200.0,False,Civil Society & NGOs,Digital Rights (India),success,200.0,False,both_success
+signal.org,Social & Streaming,Messaging,success,200.0,False,Social & Streaming,Messaging,success,200.0,False,both_success
+snapchat.com,Social & Streaming,Social Network,success,200.0,False,Social & Streaming,Social Network,success,200.0,False,both_success
+sonyliv.com,Social & Streaming,OTT Streaming,timeout,,False,Social & Streaming,OTT Streaming,timeout,,False,both_bad
+supremecourt.gov.in,Government & Public Services,Judiciary,timeout,,False,Government & Public Services,Judiciary,timeout,,False,both_bad
+takshashila.org.in,Civil Society & NGOs,Policy Think Tank,success,200.0,False,Civil Society & NGOs,Policy Think Tank,success,200.0,False,both_success
+telegram.org,Social & Streaming,Messaging,success,200.0,False,Social & Streaming,Messaging,success,200.0,False,both_success
+theguardian.com,News & Politics,International Media,success,200.0,False,News & Politics,International Media,success,200.0,False,both_success
+thehindu.com,News & Politics,Mainstream Media,success,200.0,False,News & Politics,Mainstream Media,success,200.0,False,both_success
+thepiratebay.org,Social & Streaming,Piracy/Torrents,success,200.0,False,Social & Streaming,Piracy/Torrents,success,200.0,False,both_success
+theprint.in,News & Politics,Independent Media,success,200.0,False,News & Politics,Independent Media,success,200.0,False,both_success
+thequint.com,News & Politics,Independent Media,success,200.0,False,News & Politics,Independent Media,success,200.0,False,both_success
+thewire.in,News & Politics,Independent Media,success,200.0,False,News & Politics,Independent Media,success,200.0,False,both_success
+tiktok.com,Social & Streaming,Previously Banned,success,200.0,False,Social & Streaming,Previously Banned,success,200.0,False,both_success
+timesofindia.indiatimes.com,News & Politics,Mainstream Media,success,200.0,False,News & Politics,Mainstream Media,success,200.0,False,both_success
+tn.gov.in,Government & Public Services,State Government,timeout,,False,Government & Public Services,State Government,timeout,,False,both_bad
+twitter.com,Social & Streaming,Social Network,success,200.0,False,Social & Streaming,Social Network,success,200.0,False,both_success
+uidai.gov.in,Government & Public Services,Digital ID,success,200.0,False,Government & Public Services,Digital ID,success,200.0,False,both_success
+un.org,Civil Society & NGOs,International Organisation,success,200.0,False,Civil Society & NGOs,International Organisation,success,200.0,False,both_success
+up.gov.in,Government & Public Services,State Government,success,200.0,False,Government & Public Services,State Government,success,200.0,False,both_success
+vidhilegalpolicy.in,Civil Society & NGOs,Legal Policy,client_error,404.0,False,Civil Society & NGOs,Legal Policy,client_error,404.0,False,both_bad
+whatsapp.com,Social & Streaming,Messaging,client_error,400.0,False,Social & Streaming,Messaging,client_error,400.0,False,both_bad
+who.int,Civil Society & NGOs,International Organisation,success,200.0,False,Civil Society & NGOs,International Organisation,success,200.0,False,both_success
+xvideos.com,Social & Streaming,Adult Content,success,200.0,False,Social & Streaming,Adult Content,success,200.0,False,both_success
+youtube.com,Social & Streaming,Video Platform,success,200.0,False,Social & Streaming,Video Platform,success,200.0,False,both_success
+zee5.com,Social & Streaming,OTT Streaming,success,200.0,False,Social & Streaming,OTT Streaming,success,200.0,False,both_success

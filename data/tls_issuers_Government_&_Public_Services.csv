@@ -1,0 +1,6 @@
+tls_issuer,count
+NO_CERT,4
+"countryName=BE, organizationName=GlobalSign nv-sa, commonName=GlobalSign RSA OV SSL CA 2018",4
+"countryName=US, organizationName=Let's Encrypt, commonName=E8",2
+"countryName=US, organizationName=Let's Encrypt, commonName=E7",2
+"countryName=US, organizationName=Let's Encrypt, commonName=R13",2

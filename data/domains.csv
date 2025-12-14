@@ -1,0 +1,101 @@
+domain,category,subcategory,rationale,include_flag
+timesofindia.indiatimes.com,News & Politics,Mainstream Media,Leading English-language daily newspaper in India (Times of India),yes
+thehindu.com,News & Politics,Mainstream Media,Major national English daily known for politics and policy coverage,yes
+indianexpress.com,News & Politics,Mainstream Media,National daily with strong investigative and opinion pieces,yes
+hindustantimes.com,News & Politics,Mainstream Media,Large national English daily with wide readership,yes
+ndtv.com,News & Politics,Mainstream Media,Major TV news network’s digital portal,yes
+indiatoday.in,News & Politics,Mainstream Media,Magazine and TV brand with strong political coverage,yes
+deccanherald.com,News & Politics,Mainstream Media,English daily with national and South India focus,yes
+livemint.com,News & Politics,Business Media,Financial daily covering markets and policy,yes
+economictimes.indiatimes.com,News & Politics,Business Media,Large business and markets news outlet,yes
+thewire.in,News & Politics,Independent Media,Independent digital outlet critical of state and corporate power,yes
+scroll.in,News & Politics,Independent Media,Digital news platform with long-form and investigative work,yes
+caravanmagazine.in,News & Politics,Independent Media,Long-form narrative and investigative journalism magazine,yes
+thequint.com,News & Politics,Independent Media,Digital outlet with video-heavy news and opinion,yes
+article-14.com,News & Politics,Independent Media,Platform focused on constitutionalism and civil liberties,yes
+altnews.in,News & Politics,Fact-checking,Fact-checking site investigating misinformation,yes
+newslaundry.com,News & Politics,Media Critique,Subscriber-funded outlet critiquing media and politics,yes
+dainikbhaskar.com,News & Politics,Regional Media,Major Hindi-language daily,yes
+jagran.com,News & Politics,Regional Media,"Dainik Jagran, widely-read Hindi daily",yes
+anandabazar.com,News & Politics,Regional Media,"Anandabazar Patrika, key Bengali newspaper",yes
+eenadu.net,News & Politics,Regional Media,"Eenadu, major Telugu-language daily",yes
+sakshi.com,News & Politics,Regional Media,"Sakshi, Telugu news portal",yes
+manoramaonline.com,News & Politics,Regional Media,"Malayala Manorama, Malayalam news portal",yes
+mathrubhumi.com,News & Politics,Regional Media,"Mathrubhumi, Malayalam news daily",yes
+dinakaran.com,News & Politics,Regional Media,Tamil newspaper (Dinakaran),yes
+lokmat.com,News & Politics,Regional Media,Marathi-language news outlet,yes
+bbc.com,News & Politics,International Media,Global public broadcaster widely cited in India (BBC),yes
+aljazeera.com,News & Politics,International Media,Global news outlet with South Asia coverage (Al Jazeera),yes
+nytimes.com,News & Politics,International Media,US newspaper with global politics and economy coverage (NYT),yes
+theguardian.com,News & Politics,International Media,UK-based global news outlet (The Guardian),yes
+reuters.com,News & Politics,International Media,Global newswire and financial news,yes
+apnews.com,News & Politics,International Media,Associated Press global newswire,yes
+facebook.com,Social & Streaming,Social Network,Major global social networking platform,yes
+instagram.com,Social & Streaming,Social Network,Meta-owned photo and video sharing platform,yes
+twitter.com,Social & Streaming,Social Network,Microblogging platform (Twitter/X),yes
+reddit.com,Social & Streaming,Social Network,Forum-style user generated content platform,yes
+linkedin.com,Social & Streaming,Professional Network,Professional networking platform,yes
+telegram.org,Social & Streaming,Messaging,Encrypted messaging and channels platform,yes
+signal.org,Social & Streaming,Messaging,Privacy-focused encrypted messenger (Signal),yes
+snapchat.com,Social & Streaming,Social Network,Ephemeral photo and video messaging platform,yes
+kooapp.com,Social & Streaming,Social Network,Indian microblogging platform (Koo),yes
+whatsapp.com,Social & Streaming,Messaging,Meta’s messaging platform web presence,yes
+youtube.com,Social & Streaming,Video Platform,Global video sharing and streaming platform,yes
+netflix.com,Social & Streaming,OTT Streaming,Global subscription video streaming service,yes
+primevideo.com,Social & Streaming,OTT Streaming,Amazon’s video streaming platform,yes
+disneyplus.com,Social & Streaming,OTT Streaming,Disney+ global streaming service,yes
+hotstar.com,Social & Streaming,OTT Streaming,Disney+ Hotstar India streaming portal,yes
+jiocinema.com,Social & Streaming,OTT Streaming,Jio’s streaming platform for sports and films,yes
+sonyliv.com,Social & Streaming,OTT Streaming,Sony’s Indian OTT platform,yes
+zee5.com,Social & Streaming,OTT Streaming,Zee network OTT platform,yes
+mxplayer.in,Social & Streaming,OTT Streaming,Ad-supported streaming and user generated content platform,yes
+tiktok.com,Social & Streaming,Previously Banned,Short video app banned in India by government order,yes
+pubgmobile.com,Social & Streaming,Previously Banned,Domain associated with previously banned mobile game,yes
+xvideos.com,Social & Streaming,Adult Content,Common adult site often blocked at ISP level,yes
+thepiratebay.org,Social & Streaming,Piracy/Torrents,Popular torrent index often blocked by ISPs,yes
+india.gov.in,Government & Public Services,National Portal,Official National Portal of India,yes
+mygov.in,Government & Public Services,Citizen Engagement,Citizen participation and campaigns portal,yes
+meity.gov.in,Government & Public Services,Ministry,Ministry of Electronics and Information Technology,yes
+mha.gov.in,Government & Public Services,Ministry,Ministry of Home Affairs,yes
+pmindia.gov.in,Government & Public Services,PMO,Prime Minister’s Office website,yes
+uidai.gov.in,Government & Public Services,Digital ID,Unique Identification Authority of India (Aadhaar),yes
+incometax.gov.in,Government & Public Services,Tax,Income Tax Department e-filing portal,yes
+gst.gov.in,Government & Public Services,Tax,Goods and Services Tax Network portal,yes
+digilocker.gov.in,Government & Public Services,e-Governance,Digital document locker service,yes
+data.gov.in,Government & Public Services,Open Data,Open Government Data Platform India,yes
+supremecourt.gov.in,Government & Public Services,Judiciary,Supreme Court of India official site,yes
+eci.gov.in,Government & Public Services,Election Commission,Election Commission of India portal,yes
+nhrc.nic.in,Government & Public Services,Human Rights Commission,National Human Rights Commission site,yes
+kerala.gov.in,Government & Public Services,State Government,Government of Kerala official portal,yes
+tn.gov.in,Government & Public Services,State Government,Government of Tamil Nadu portal,yes
+maharashtra.gov.in,Government & Public Services,State Government,Government of Maharashtra website,yes
+delhi.gov.in,Government & Public Services,State Government,GNCT Delhi official portal,yes
+up.gov.in,Government & Public Services,State Government,Uttar Pradesh government website,yes
+internetfreedom.in,Civil Society & NGOs,Digital Rights (India),Internet Freedom Foundation – Indian digital rights group,yes
+cis-india.org,Civil Society & NGOs,Digital Rights (India),Centre for Internet and Society – research on internet policy,yes
+sflc.in,Civil Society & NGOs,Digital Rights (India),Software Freedom Law Center India,yes
+prsindia.org,Civil Society & NGOs,Policy Research,PRS Legislative Research – parliamentary analysis,yes
+adrindia.org,Civil Society & NGOs,Elections/Politics,Association for Democratic Reforms – political finance and elections,yes
+pucl.org,Civil Society & NGOs,Civil Liberties,People’s Union for Civil Liberties,yes
+humanrightsinitiative.org,Civil Society & NGOs,Civil Liberties,Commonwealth Human Rights Initiative (CHRI),yes
+amnesty.org,Civil Society & NGOs,Human Rights (Global),Amnesty International,yes
+hrw.org,Civil Society & NGOs,Human Rights (Global),Human Rights Watch,yes
+rsf.org,Civil Society & NGOs,Press Freedom,Reporters Without Borders,yes
+accessnow.org,Civil Society & NGOs,Digital Rights (Global),Access Now,yes
+freedomhouse.org,Civil Society & NGOs,Democracy Index,Freedom House,yes
+citizenlab.ca,Civil Society & NGOs,Research Lab,"The Citizen Lab, research on censorship and surveillance",yes
+orfonline.org,Civil Society & NGOs,Policy Think Tank,Observer Research Foundation (India),yes
+idfcinstitute.org,Civil Society & NGOs,Policy Think Tank,"IDFC Institute, urban and policy research",yes
+vidhilegalpolicy.in,Civil Society & NGOs,Legal Policy,Vidhi Centre for Legal Policy,yes
+epw.in,Civil Society & NGOs,Academic Journal,Economic & Political Weekly journal site,yes
+takshashila.org.in,Civil Society & NGOs,Policy Think Tank,Takshashila Institution,yes
+huffpost.com,News & Politics,International Media,Digital-born international news outlet with India coverage (HuffPost),yes
+firstpost.com,News & Politics,Mainstream Media,Indian news and opinion portal (Firstpost),yes
+moneycontrol.com,News & Politics,Business Media,Markets and finance news portal (Moneycontrol),yes
+indiancouncilofworldaffairs.gov.in,Government & Public Services,Think Tank (Govt),Indian Council of World Affairs official site,yes
+mea.gov.in,Government & Public Services,Ministry,Ministry of External Affairs official site,yes
+pib.gov.in,Government & Public Services,Information Bureau,Press Information Bureau of India,yes
+un.org,Civil Society & NGOs,International Organisation,United Nations official website,yes
+who.int,Civil Society & NGOs,International Organisation,World Health Organization official website,yes
+theprint.in,News & Politics,Independent Media,Digital news platform focused on politics and policy (The Print),yes
+news18.com,News & Politics,Mainstream Media,Network18 news portal with national and regional coverage,yes

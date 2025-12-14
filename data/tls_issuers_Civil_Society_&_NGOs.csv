@@ -1,0 +1,6 @@
+tls_issuer,count
+"countryName=US, organizationName=Google Trust Services, commonName=WE1",10
+"countryName=US, organizationName=Let's Encrypt, commonName=R13",2
+NO_CERT,2
+"countryName=US, organizationName=DigiCert Inc, organizationalUnitName=www.digicert.com, commonName=RapidSSL TLS RSA CA G1",1
+"countryName=US, organizationName=Let's Encrypt, commonName=E8",1

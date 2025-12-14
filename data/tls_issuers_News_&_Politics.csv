@@ -1,0 +1,6 @@
+tls_issuer,count
+"countryName=US, organizationName=Google Trust Services, commonName=WE1",7
+"countryName=US, organizationName=Let's Encrypt, commonName=R13",6
+"countryName=US, organizationName=DigiCert Inc, commonName=DigiCert Global G3 TLS ECC SHA384 2020 CA1",5
+"countryName=US, organizationName=Google Trust Services, commonName=WR3",3
+"countryName=US, organizationName=Let's Encrypt, commonName=R12",2

@@ -1,0 +1,101 @@
+domain,category,subcategory,local_http_outcome,local_tls_issuer,ooni_total_measurements,ooni_failure_count,ooni_failure_rate,vantage_diff_flag,censorship_class
+accessnow.org,Civil Society & NGOs,Digital Rights (Global),success,"countryName=US, organizationName=Google Trust Services, commonName=WE1",5,0,0.0,both_success,normal
+adrindia.org,Civil Society & NGOs,Elections/Politics,success,"countryName=US, organizationName=Google Trust Services, commonName=WE1",4,0,0.0,both_success,normal
+aljazeera.com,News & Politics,International Media,success,"countryName=GB, organizationName=Sectigo Limited, commonName=Sectigo Public Server Authentication CA OV R36",4,0,0.0,both_success,normal
+altnews.in,News & Politics,Fact-checking,success,"countryName=US, organizationName=Let's Encrypt, commonName=R12",4,0,0.0,both_success,normal
+amnesty.org,Civil Society & NGOs,Human Rights (Global),success,"countryName=US, organizationName=Google Trust Services, commonName=WE1",4,0,0.0,both_success,normal
+anandabazar.com,News & Politics,Regional Media,access_denied,"countryName=US, organizationName=Google Trust Services, commonName=WE1",0,0,0.0,both_bad,normal
+apnews.com,News & Politics,International Media,success,"countryName=US, organizationName=Let's Encrypt, commonName=E7",0,0,0.0,both_success,normal
+article-14.com,News & Politics,Independent Media,success,"countryName=US, organizationName=Let's Encrypt, commonName=R13",0,0,0.0,both_success,normal
+bbc.com,News & Politics,International Media,success,"countryName=BE, organizationName=GlobalSign nv-sa, commonName=GlobalSign RSA OV SSL CA 2018",4,0,0.0,both_success,normal
+caravanmagazine.in,News & Politics,Independent Media,success,"countryName=US, organizationName=Google Trust Services, commonName=WE1",4,0,0.0,both_success,normal
+cis-india.org,Civil Society & NGOs,Digital Rights (India),success,"countryName=US, organizationName=Google Trust Services, commonName=WE1",4,0,0.0,both_success,normal
+citizenlab.ca,Civil Society & NGOs,Research Lab,success,"countryName=US, organizationName=Google Trust Services, commonName=WE1",4,0,0.0,both_success,normal
+dainikbhaskar.com,News & Politics,Regional Media,success,"countryName=US, organizationName=Amazon, commonName=Amazon RSA 2048 M02",0,0,0.0,both_success,normal
+data.gov.in,Government & Public Services,Open Data,success,"countryName=US, organizationName=Let's Encrypt, commonName=R12",0,0,0.0,both_success,normal
+deccanherald.com,News & Politics,Mainstream Media,success,"countryName=US, organizationName=Let's Encrypt, commonName=R13",2,0,0.0,both_success,normal
+delhi.gov.in,Government & Public Services,State Government,success,"countryName=GB, organizationName=Sectigo Limited, commonName=Sectigo Public Server Authentication CA DV R36",0,0,0.0,both_success,normal
+digilocker.gov.in,Government & Public Services,e-Governance,success,"countryName=US, organizationName=DigiCert Inc, organizationalUnitName=www.digicert.com, commonName=RapidSSL TLS RSA CA G1",0,0,0.0,both_success,normal
+dinakaran.com,News & Politics,Regional Media,success,"countryName=US, organizationName=Google Trust Services, commonName=WR3",0,0,0.0,both_success,normal
+disneyplus.com,Social & Streaming,OTT Streaming,success,"countryName=US, organizationName=Google Trust Services, commonName=WR3",0,0,0.0,both_success,normal
+eci.gov.in,Government & Public Services,Election Commission,access_denied,"countryName=IN, organizationalUnitName=emSign PKI, organizationName=eMudhra Technologies Limited, commonName=emSign SSL CA - G1",1,0,0.0,both_bad,normal
+economictimes.indiatimes.com,News & Politics,Business Media,success,"countryName=US, organizationName=Let's Encrypt, commonName=R13",5,0,0.0,both_success,normal
+eenadu.net,News & Politics,Regional Media,success,"countryName=US, organizationName=Let's Encrypt, commonName=R13",2,0,0.0,both_success,normal
+epw.in,Civil Society & NGOs,Academic Journal,success,"countryName=GB, organizationName=Sectigo Limited, commonName=Sectigo Public Server Authentication CA DV R36",0,0,0.0,both_success,normal
+facebook.com,Social & Streaming,Social Network,client_error,"countryName=US, organizationName=DigiCert Inc, commonName=DigiCert Global G2 TLS RSA SHA256 2020 CA1",89,1,0.0112359550561797,both_bad,normal
+firstpost.com,News & Politics,Mainstream Media,success,"countryName=US, organizationName=DigiCert Inc, commonName=DigiCert Global G3 TLS ECC SHA384 2020 CA1",2,0,0.0,both_success,normal
+freedomhouse.org,Civil Society & NGOs,Democracy Index,success,"countryName=US, organizationName=Google Trust Services, commonName=WE1",4,0,0.0,both_success,normal
+gst.gov.in,Government & Public Services,Tax,success,"countryName=BE, organizationName=GlobalSign nv-sa, commonName=GlobalSign RSA OV SSL CA 2018",0,0,0.0,both_success,normal
+hindustantimes.com,News & Politics,Mainstream Media,success,"countryName=US, organizationName=DigiCert Inc, commonName=DigiCert Global G3 TLS ECC SHA384 2020 CA1",2,0,0.0,remote_blocked_india_ok,normal
+hotstar.com,Social & Streaming,OTT Streaming,success,"countryName=US, organizationName=Amazon, commonName=Amazon RSA 2048 M02",0,0,0.0,both_success,normal
+hrw.org,Civil Society & NGOs,Human Rights (Global),success,"countryName=US, organizationName=Let's Encrypt, commonName=R13",2,0,0.0,both_success,normal
+huffpost.com,News & Politics,International Media,success,"countryName=BE, organizationName=GlobalSign nv-sa, commonName=GlobalSign Atlas R3 DV TLS CA 2025 Q4",2,0,0.0,both_success,normal
+humanrightsinitiative.org,Civil Society & NGOs,Civil Liberties,success,"countryName=US, organizationName=Let's Encrypt, commonName=R13",0,0,0.0,both_success,normal
+idfcinstitute.org,Civil Society & NGOs,Policy Think Tank,timeout,,0,0,0.0,both_bad,normal
+incometax.gov.in,Government & Public Services,Tax,connection_error,,0,0,0.0,both_bad,infra_flaky
+india.gov.in,Government & Public Services,National Portal,success,"countryName=US, organizationName=Let's Encrypt, commonName=E8",2,2,1.0,both_success,normal
+indiancouncilofworldaffairs.gov.in,Government & Public Services,Think Tank (Govt),connection_error,,0,0,0.0,both_bad,infra_flaky
+indianexpress.com,News & Politics,Mainstream Media,success,"countryName=US, organizationName=DigiCert Inc, commonName=DigiCert Global G2 TLS RSA SHA256 2020 CA1",1,0,0.0,both_success,normal
+indiatoday.in,News & Politics,Mainstream Media,success,"countryName=US, organizationName=DigiCert Inc, organizationalUnitName=www.digicert.com, commonName=GeoTrust ECC CA 2018",2,0,0.0,both_success,normal
+instagram.com,Social & Streaming,Social Network,success,"countryName=US, organizationName=DigiCert Inc, commonName=DigiCert Global G2 TLS RSA SHA256 2020 CA1",86,2,0.0232558139534883,both_success,normal
+internetfreedom.in,Civil Society & NGOs,Digital Rights (India),success,"countryName=US, organizationName=Google Trust Services, commonName=WE1",0,0,0.0,both_success,normal
+jagran.com,News & Politics,Regional Media,success,"countryName=US, organizationName=Google Trust Services, commonName=WR3",2,0,0.0,both_success,normal
+jiocinema.com,Social & Streaming,OTT Streaming,success,"countryName=US, organizationName=DigiCert Inc, commonName=DigiCert Global G3 TLS ECC SHA384 2020 CA1",0,0,0.0,both_success,normal
+kerala.gov.in,Government & Public Services,State Government,timeout,,0,0,0.0,both_bad,infra_flaky
+kooapp.com,Social & Streaming,Social Network,client_error,"countryName=US, organizationName=Let's Encrypt, commonName=R13",0,0,0.0,both_bad,normal
+linkedin.com,Social & Streaming,Professional Network,success,,6,0,0.0,both_success,normal
+livemint.com,News & Politics,Business Media,success,"countryName=US, organizationName=DigiCert Inc, commonName=DigiCert Global G3 TLS ECC SHA384 2020 CA1",2,0,0.0,both_success,normal
+lokmat.com,News & Politics,Regional Media,success,"countryName=US, organizationName=Amazon, commonName=Amazon RSA 2048 M02",0,0,0.0,both_success,normal
+maharashtra.gov.in,Government & Public Services,State Government,success,"countryName=BE, organizationName=GlobalSign nv-sa, commonName=GlobalSign RSA OV SSL CA 2018",0,0,0.0,both_success,normal
+manoramaonline.com,News & Politics,Regional Media,success,"countryName=US, organizationName=DigiCert Inc, commonName=DigiCert Global G3 TLS ECC SHA384 2020 CA1",2,0,0.0,both_success,normal
+mathrubhumi.com,News & Politics,Regional Media,success,"countryName=GB, stateOrProvinceName=Greater Manchester, localityName=Salford, organizationName=Sectigo Limited, commonName=Sectigo RSA Domain Validation Secure Server CA",2,0,0.0,both_success,normal
+mea.gov.in,Government & Public Services,Ministry,success,"countryName=BE, organizationName=GlobalSign nv-sa, commonName=GlobalSign RSA OV SSL CA 2018",0,0,0.0,both_success,normal
+meity.gov.in,Government & Public Services,Ministry,success,"countryName=US, organizationName=Let's Encrypt, commonName=E8",0,0,0.0,both_success,normal
+mha.gov.in,Government & Public Services,Ministry,success,"countryName=US, organizationName=Let's Encrypt, commonName=E7",0,0,0.0,both_success,normal
+moneycontrol.com,News & Politics,Business Media,success,"countryName=US, organizationName=Let's Encrypt, commonName=R13",3,0,0.0,both_success,normal
+mxplayer.in,Social & Streaming,OTT Streaming,success,"countryName=US, organizationName=Amazon, commonName=Amazon RSA 2048 M01",0,0,0.0,both_success,normal
+mygov.in,Government & Public Services,Citizen Engagement,success,"countryName=US, organizationName=Let's Encrypt, commonName=R13",2,0,0.0,both_success,normal
+ndtv.com,News & Politics,Mainstream Media,access_denied,"countryName=US, organizationName=DigiCert Inc, commonName=DigiCert Global G3 TLS ECC SHA384 2020 CA1",3,0,0.0,both_bad,normal
+netflix.com,Social & Streaming,OTT Streaming,success,"countryName=US, organizationName=DigiCert Inc, organizationalUnitName=www.digicert.com, commonName=DigiCert Secure Site ECC CA-1",2,0,0.0,both_success,normal
+news18.com,News & Politics,Mainstream Media,success,"countryName=US, organizationName=Let's Encrypt, commonName=R12",2,0,0.0,both_success,normal
+newslaundry.com,News & Politics,Media Critique,success,"countryName=US, organizationName=Google Trust Services, commonName=WE1",3,0,0.0,both_success,normal
+nhrc.nic.in,Government & Public Services,Human Rights Commission,success,"countryName=US, organizationName=DigiCert Inc, organizationalUnitName=www.digicert.com, commonName=RapidSSL TLS RSA CA G1",0,0,0.0,both_success,normal
+nytimes.com,News & Politics,International Media,success,"countryName=US, organizationName=DigiCert Inc, organizationalUnitName=www.digicert.com, commonName=Thawte TLS RSA CA G1",3,0,0.0,both_success,normal
+orfonline.org,Civil Society & NGOs,Policy Think Tank,success,"countryName=US, organizationName=Google Trust Services, commonName=WE1",0,0,0.0,both_success,normal
+pib.gov.in,Government & Public Services,Information Bureau,success,"countryName=BE, organizationName=GlobalSign nv-sa, commonName=GlobalSign RSA OV SSL CA 2018",0,0,0.0,both_success,normal
+pmindia.gov.in,Government & Public Services,PMO,success,"countryName=US, organizationName=Let's Encrypt, commonName=R13",2,0,0.0,both_success,normal
+primevideo.com,Social & Streaming,OTT Streaming,success,"countryName=US, organizationName=Amazon, commonName=Amazon RSA 2048 M02",0,0,0.0,both_success,normal
+prsindia.org,Civil Society & NGOs,Policy Research,success,"countryName=US, organizationName=DigiCert Inc, organizationalUnitName=www.digicert.com, commonName=RapidSSL TLS RSA CA G1",0,0,0.0,both_success,normal
+pubgmobile.com,Social & Streaming,Previously Banned,success,"countryName=US, organizationName=Amazon, commonName=Amazon RSA 2048 M04",0,0,0.0,both_success,normal
+pucl.org,Civil Society & NGOs,Civil Liberties,success,"countryName=US, organizationName=Let's Encrypt, commonName=R12",4,1,0.25,both_success,rights_org_suspect
+reddit.com,Social & Streaming,Social Network,success,"countryName=US, organizationName=DigiCert Inc, commonName=DigiCert Global G2 TLS RSA SHA256 2020 CA1",9,0,0.0,both_success,normal
+reuters.com,News & Politics,International Media,success,"countryName=GB, stateOrProvinceName=Greater Manchester, localityName=Salford, organizationName=COMODO CA Limited, commonName=COMODO RSA Organization Validation Secure Server CA",4,0,0.0,both_success,normal
+rsf.org,Civil Society & NGOs,Press Freedom,success,"countryName=US, organizationName=Google Trust Services, commonName=WE1",4,0,0.0,both_success,normal
+sakshi.com,News & Politics,Regional Media,success,"countryName=US, organizationName=Amazon, commonName=Amazon RSA 2048 M04",0,0,0.0,both_success,normal
+scroll.in,News & Politics,Independent Media,success,"countryName=US, organizationName=Google Trust Services, commonName=WE1",5,0,0.0,both_success,normal
+sflc.in,Civil Society & NGOs,Digital Rights (India),success,"countryName=US, organizationName=Let's Encrypt, commonName=E8",0,0,0.0,both_success,normal
+signal.org,Social & Streaming,Messaging,success,"countryName=US, organizationName=Google Trust Services, commonName=WE1",11,0,0.0,both_success,normal
+snapchat.com,Social & Streaming,Social Network,success,"countryName=US, organizationName=DigiCert Inc, commonName=DigiCert Global G2 TLS RSA SHA256 2020 CA1",10,0,0.0,both_success,normal
+sonyliv.com,Social & Streaming,OTT Streaming,timeout,"countryName=US, organizationName=Amazon, commonName=Amazon RSA 2048 M01",0,0,0.0,both_bad,normal
+supremecourt.gov.in,Government & Public Services,Judiciary,timeout,,0,0,0.0,both_bad,infra_flaky
+takshashila.org.in,Civil Society & NGOs,Policy Think Tank,success,"countryName=US, organizationName=Let's Encrypt, commonName=E7",0,0,0.0,both_success,normal
+telegram.org,Social & Streaming,Messaging,success,"countryName=US, stateOrProvinceName=Arizona, localityName=Scottsdale, organizationName=GoDaddy.com, Inc., organizationalUnitName=http://certs.godaddy.com/repository/, commonName=Go Daddy Secure Certificate Authority - G2",10,0,0.0,both_success,normal
+theguardian.com,News & Politics,International Media,success,"countryName=BE, organizationName=GlobalSign nv-sa, commonName=GlobalSign Atlas R3 DV TLS CA 2025 Q3",3,0,0.0,both_success,normal
+thehindu.com,News & Politics,Mainstream Media,success,"countryName=US, organizationName=Let's Encrypt, commonName=E7",3,0,0.0,both_success,normal
+thepiratebay.org,Social & Streaming,Piracy/Torrents,success,"countryName=US, organizationName=Google Trust Services, commonName=WE1",1,0,0.0,both_success,normal
+theprint.in,News & Politics,Independent Media,success,"countryName=GB, organizationName=Sectigo Limited, commonName=Sectigo Public Server Authentication CA DV R36",0,0,0.0,both_success,normal
+thequint.com,News & Politics,Independent Media,success,"countryName=US, organizationName=Google Trust Services, commonName=WE1",3,0,0.0,both_success,normal
+thewire.in,News & Politics,Independent Media,success,"countryName=US, organizationName=Google Trust Services, commonName=WR3",3,0,0.0,both_success,normal
+tiktok.com,Social & Streaming,Previously Banned,success,"countryName=US, organizationName=DigiCert Inc, organizationalUnitName=www.digicert.com, commonName=RapidSSL TLS ECC CA G1",27,12,0.4444444444444444,both_success,app_ban_partial
+timesofindia.indiatimes.com,News & Politics,Mainstream Media,success,"countryName=US, organizationName=Let's Encrypt, commonName=R13",5,0,0.0,both_success,normal
+tn.gov.in,Government & Public Services,State Government,timeout,"countryName=US, organizationName=Let's Encrypt, commonName=E7",0,0,0.0,india_blocked_remote_ok,infra_flaky
+twitter.com,Social & Streaming,Social Network,success,"countryName=US, organizationName=Let's Encrypt, commonName=E7",87,1,0.0114942528735632,both_success,normal
+uidai.gov.in,Government & Public Services,Digital ID,success,"countryName=IN, organizationalUnitName=emSign PKI, organizationName=eMudhra Technologies Limited, commonName=emSign SSL CA - G1",0,0,0.0,both_success,normal
+un.org,Civil Society & NGOs,International Organisation,success,"countryName=GB, stateOrProvinceName=Greater Manchester, localityName=Salford, organizationName=COMODO CA Limited, commonName=COMODO RSA Organization Validation Secure Server CA",3,0,0.0,both_success,normal
+up.gov.in,Government & Public Services,State Government,success,"countryName=GB, organizationName=Sectigo Limited, commonName=Sectigo Public Server Authentication CA DV R36",0,0,0.0,both_success,normal
+vidhilegalpolicy.in,Civil Society & NGOs,Legal Policy,client_error,,3,3,1.0,both_bad,rights_org_suspect
+whatsapp.com,Social & Streaming,Messaging,client_error,"countryName=US, organizationName=DigiCert Inc, commonName=DigiCert Global G2 TLS RSA SHA256 2020 CA1",9,0,0.0,both_bad,normal
+who.int,Civil Society & NGOs,International Organisation,success,"countryName=US, organizationName=Google Trust Services, commonName=WE1",1,0,0.0,both_success,normal
+xvideos.com,Social & Streaming,Adult Content,success,"countryName=GB, stateOrProvinceName=Greater Manchester, localityName=Salford, organizationName=Sectigo Limited, commonName=Sectigo RSA Domain Validation Secure Server CA",4,4,1.0,both_success,policy_blocked
+youtube.com,Social & Streaming,Video Platform,success,"countryName=US, organizationName=Google Trust Services, commonName=WR2",86,1,0.0116279069767441,both_success,normal
+zee5.com,Social & Streaming,OTT Streaming,success,"countryName=US, organizationName=DigiCert Inc, commonName=DigiCert Global G3 TLS ECC SHA384 2020 CA1",0,0,0.0,both_success,normal

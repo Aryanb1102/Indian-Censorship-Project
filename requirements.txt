@@ -1,7 +1,8 @@
-pandas
+pandas==2.2.2
 requests
 dnspython
 matplotlib
-streamlit
+streamlit==1.32.2
 plotly
 altair==4.2.2
+pyarrow==12.0.1
